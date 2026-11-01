@@ -1,9 +1,7 @@
 # Коллекция полезных .gitignore от GitHub: https://github.com/github/gitignore
 
 # Игнорирование всех markdown-файлов:
-*.md
 .vs
 secrets.txt
 
 # Исключение из игнорирования конкретного файла:
-!s*.md
